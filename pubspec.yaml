@@ -18,7 +18,7 @@ dependencies:
   flutter_mongo_stitch_web: ^0.3.2+1
 
 
-#   universal_html: ^1.2.4      # instead importing in runtime
+  universal_html: ^1.2.4      # instead importing in runtime
 #   bson: ^0.3.4
 #   extension: ^0.1.1
 #   streams_channel: ^0.3.0
