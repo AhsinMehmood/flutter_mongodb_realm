@@ -19,7 +19,7 @@ dependencies:
 
 
   universal_html: ^1.2.4      # instead importing in runtime
-#   bson: ^0.3.4
+  bson: ^0.3.4
 #   extension: ^0.1.1
 #   streams_channel: ^0.3.0
 #   meta: ^1.0.4
